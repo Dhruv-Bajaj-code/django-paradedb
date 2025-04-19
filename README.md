@@ -9,7 +9,7 @@
 
 1. Install:
    ```bash
-   git clone https://github.com/Dhruv-Bajaj-code/paradedb-django.git
+   git clone https://github.com/Dhruv-Bajaj-code/django-paradedb.git
    cd paradedb-django
    pip install .
 
