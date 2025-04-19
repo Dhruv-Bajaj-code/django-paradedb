@@ -9,7 +9,9 @@
 
 1. Install:
    ```bash
-   pip install paradedb-django
+   git clone https://github.com/Dhruv-Bajaj-code/paradedb-django.git
+   cd paradedb-django
+   pip install .
 
 2. Add to settings.py:
     ```bash
